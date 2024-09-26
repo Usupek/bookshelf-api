@@ -1,4 +1,4 @@
-**BOOKSHELF API**
+# BOOKSHELF API
 this project is for Dicoding's final assignment on Back-end development course
 
 **How to run:**
